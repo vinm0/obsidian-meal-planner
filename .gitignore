@@ -34,5 +34,17 @@ docker-compose.override.yml
 
 # Local development artifacts
 *.log
-.vscode/settings.json
+.vscode/
 .claude/
+*.iml
+.idea
+
+# Don't include the compiled main.js file in the repo.
+# They should be uploaded to GitHub releases instead.
+main.js
+
+# Exclude sourcemaps
+*.map
+
+# obsidian
+data.json

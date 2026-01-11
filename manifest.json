@@ -1,0 +1,9 @@
+{
+	"id": "meal-planner",
+	"name": "Meal Planner",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "An Obsidian plugin to help plan meals and generate shopping lists.",
+	"author": "Vincent Elliott Martinez",
+	"isDesktopOnly": false
+}
